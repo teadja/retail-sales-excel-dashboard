@@ -33,11 +33,12 @@ The dataset includes retail sales transactions with information on revenue, prod
 - Sales performance varies across representatives, highlighting opportunities for optimization.
 - Revenue is driven more by top-performing categories and regions rather than evenly distributed sales.
   
-## Screenshots
+
 
 ## Dashboard Preview
 
-### Full Dashboard
+### Full Dashboard Overview
+This dashboard summarizes retail sales performance across product categories, regions, and sales representatives.
 ![Dashboard](dashboard.png)
 
 ### Sales by Category
