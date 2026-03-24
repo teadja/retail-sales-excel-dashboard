@@ -1,5 +1,5 @@
 # retail-sales-excel-dashboard
-Excel dashboard analyzing retail sales performance using pivot tables and data visualization.
+Excel dashboard analyzing retail sales performance using pivot tables, charts, and data visualization techniques.
 
 
 # Retail Sales Excel Dashboard
@@ -27,20 +27,24 @@ The dataset includes retail sales transactions with information on revenue, prod
 - Analyzed trends to identify key business insights
 
 ## Key Findings
-- Technology generated the highest category revenue, outperforming other product categories
-- The West region showed the strongest overall sales performance
-- Sales productivity varied across representatives, indicating differences in performance
 
+- Technology generated the highest revenue among product categories, indicating strong demand.
+- The West region produced the highest sales, suggesting a key geographic market.
+- Sales performance varies across representatives, highlighting opportunities for optimization.
+- Revenue is driven more by top-performing categories and regions rather than evenly distributed sales.
+  
 ## Screenshots
 
-### Dashboard Overview
-![Dashboard](screenshots/dashboard.png)
+## Dashboard Preview
+
+### Full Dashboard
+![Dashboard](dashboard.png)
 
 ### Sales by Category
-![Category](screenshots/category.png)
+![Category](category.png)
 
 ### Sales by Region
-![Region](screenshots/region.png)
+![Region](region.png)
 
 ## Files
 - `retail_sales_dashboard.xlsx` → Excel dashboard file
